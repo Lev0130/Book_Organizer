@@ -9,7 +9,8 @@ Built with:
 - 📂 pathlib (file management)
 
 ---
-![App Screenshot](pictures/screenshot_1-png)
+![App Screenshot](pictures/screenshot_1.png)
+
 
 ## ✨ Features
 
