@@ -9,6 +9,7 @@ Built with:
 - 📂 pathlib (file management)
 
 ---
+![App Screenshot](pictures/screenshot_1-png)
 
 ## ✨ Features
 
@@ -77,6 +78,8 @@ Run the application:
 python main.py
 ```
 Then:
+
+![App Screenshot](pictures/screenshot_1.png)
 
 -Select your books folder
 -Click Run
